@@ -1,13 +1,13 @@
-Project Title:
+**Project Title:**
 
-Team Members: Nicolas Stamper, Elliot Lindsey
+**Team Members:** Nicolas Stamper, Elliot Lindsey
 
-Problem Description:
+**Problem Description:**
 
-Algorithms Implemented:
+**Algorithms Implemented:**
 
-Dataset(s) Used:
+**Dataset(s) Used:**
 
-How To Run:
+**How To Run:**
 
-GenAI Usage Disclosure:
+**GenAI Usage Disclosure:**
