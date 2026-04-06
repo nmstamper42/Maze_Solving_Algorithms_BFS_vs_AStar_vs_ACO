@@ -1,3 +1,13 @@
-CSC-2400-004 Maze Solving Algorithm Comparison &amp; Experimental Design
+Project Title:
 
-Nicolas Stamper, Elliot Lindsey
+Team Members: Nicolas Stamper, Elliot Lindsey
+
+Problem Description:
+
+Algorithms Implemented:
+
+Dataset(s) Used:
+
+How To Run:
+
+GenAI Usage Disclosure:
