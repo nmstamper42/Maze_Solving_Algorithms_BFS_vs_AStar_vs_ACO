@@ -1,8 +1,3 @@
-References
-
-- This folder documents all external sources consulted during the development of the Maze Solving Algorithm Comparison project (CSC 2400).
-
-
 Algorithm Research
 
 GeeksforGeeks — Breadth-First Search
@@ -30,6 +25,7 @@ Wikipedia — Best-First Search
 - https://en.wikipedia.org/wiki/Best-first_search
 
 
+
 Tools and AI Assistance
 
 ChatGPT (OpenAI)
@@ -41,6 +37,7 @@ Claude (Anthropic)
 - https://claude.ai
 
 - All AI-assisted code and suggestions were reviewed, tested, and modified by the project team. No AI-generated content was used without evaluation. All submissions reflect the team's own understanding and work.
+
 
 
 Python Libraries
